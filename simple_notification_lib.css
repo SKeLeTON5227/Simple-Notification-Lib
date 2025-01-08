@@ -15,7 +15,7 @@
   z-index: 10;
   transform: translateX(120%);
   opacity: 0;
-  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out; /* Исправлено: transform вместо transfort */
+  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
 }
 
 .lib-style-notification.notification-show {
